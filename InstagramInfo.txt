@@ -1,0 +1,8 @@
+public class InstgramInfo{
+public static void main(String[] args){
+for(int i=0;i<(Instagram.inst).length;i++)
+{
+System.out.println("the Channels are "+Instagram.inst[i]);
+}
+}
+}
